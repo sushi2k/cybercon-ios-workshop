@@ -20,7 +20,7 @@ PODS:
   - AFNetworking/UIKit (2.5.4):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - Alamofire (4.8.0)
+  - Alamofire (4.7.0)
   - Firebase (7.11.0):
     - Firebase/Core (= 7.11.0)
   - Firebase/Core (7.11.0):
@@ -110,8 +110,8 @@ PODS:
   - SwiftyJSON (4.3.0)
 
 DEPENDENCIES:
-  - AFNetworking (~> 2.5.4)
-  - Alamofire (= 4.8)
+  - AFNetworking (~> 2.5.2)
+  - Alamofire (= 4.7)
   - Firebase (~> 7.11.0)
   - KeychainSwift (~> 12.0)
   - libpng (~> 1.6)
@@ -138,8 +138,8 @@ SPEC REPOS:
     - SwiftyJSON
 
 SPEC CHECKSUMS:
-  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
-  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AFNetworking: 407b0a35966776613924a869ef358b59f927d788
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
   Firebase: c121feb35e4126c0b355e3313fa9b487d47319fd
   FirebaseAnalytics: cd3bd84d722a24a8923918af8af8e5236f615d77
   FirebaseCore: 907447d8917a4d3eb0cce2829c5a0ad21d90b432
@@ -155,6 +155,6 @@ SPEC CHECKSUMS:
   SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: ea4c5aa0531ffc953854f2bdaf2378706757fb5c
+PODFILE CHECKSUM: 15275e9f8614c11b51713d743fdd484033d173ad
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.16.2
