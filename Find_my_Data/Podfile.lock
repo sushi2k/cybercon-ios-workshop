@@ -106,15 +106,19 @@ PODS:
   - nanopb/decode (2.30908.0)
   - nanopb/encode (2.30908.0)
   - PromisesObjC (1.2.12)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
   - SideMenu (6.5.0)
   - SwiftyJSON (4.3.0)
 
 DEPENDENCIES:
-  - AFNetworking (~> 2.5.2)
+  - AFNetworking (~> 2.5.1)
   - Alamofire (= 4.7)
   - Firebase (~> 7.11.0)
   - KeychainSwift (~> 12.0)
   - libpng (~> 1.6)
+  - SDWebImage (= 4.0.0)
   - SideMenu (~> 6.0)
   - SwiftyJSON (~> 4.0)
 
@@ -134,6 +138,7 @@ SPEC REPOS:
     - libpng
     - nanopb
     - PromisesObjC
+    - SDWebImage
     - SideMenu
     - SwiftyJSON
 
@@ -152,9 +157,10 @@ SPEC CHECKSUMS:
   libpng: c490b0523e94f78697f83ad434fbaf715050e15b
   nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
   PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
   SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: 15275e9f8614c11b51713d743fdd484033d173ad
+PODFILE CHECKSUM: f586d3c905b289f4f5570c79283ce8967c9b0af5
 
 COCOAPODS: 1.16.2
